@@ -1,7 +1,7 @@
 <?php
 
-include("addPower.php");
-echo json_encode(addPower('384:0D:8E:D6:A4:D4:VTHT16', 235, 110));
+// include("addPower.php");
+// echo json_encode(addPower('384:0D:8E:D6:A4:D4:VTHT16', 235, 110));
 
 ?>
 
@@ -22,5 +22,7 @@ echo json_encode(addPower('384:0D:8E:D6:A4:D4:VTHT16', 235, 110));
         <a href="/modelDetail.php?id==384:0D:8E:D6:A4:D4:PJHI06" class='link-button'>device 3</a>
     </div>
 </body>
+
+
 
 </html>
